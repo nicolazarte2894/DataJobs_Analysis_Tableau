@@ -1,0 +1,653 @@
+work_year,job_title,employment_type,experience_level,salary_in_usd,remote_ratio,employee_residence,company_location,company_size
+2020,AI Scientist,Full-time,Junior,45896,50,DK,DK,Small
+2020,BI Data Analyst,Full-time,Semi-Senior,98000,0,US,US,Medium
+2020,Big Data Engineer,Full-time,Senior,109024,50,GB,GB,Medium
+2020,Big Data Engineer,Full-time,Senior,114047,100,PL,GB,Small
+2020,Big Data Engineer,Full-time,Junior,70000,100,US,US,Large
+2020,Business Data Analyst,Full-time,Semi-Senior,135000,100,US,US,Large
+2020,Business Data Analyst,Contract,Junior,100000,100,US,US,Large
+2020,Computer Vision Engineer,Freelance,Senior,60000,100,RU,US,Small
+2020,Data Analyst,Full-time,Semi-Senior,46759,50,FR,FR,Large
+2020,Data Analyst,Full-time,Junior,10000,100,NG,NG,Small
+2020,Data Analyst,Full-time,Junior,6072,0,IN,IN,Small
+2020,Data Analyst,Full-time,Junior,91000,100,US,US,Large
+2020,Data Analyst,Full-time,Junior,72000,100,US,US,Large
+2020,Data Analyst,Full-time,Semi-Senior,85000,100,US,US,Large
+2020,Data Analyst,Full-time,Semi-Senior,8000,50,PK,PK,Large
+2020,Data Engineer,Full-time,Semi-Senior,74130,50,AT,AT,Large
+2020,Data Engineer,Full-time,Semi-Senior,106000,100,US,US,Large
+2020,Data Engineer,Full-time,Semi-Senior,112872,50,GB,GB,Large
+2020,Data Engineer,Full-time,Senior,188000,100,US,US,Large
+2020,Data Engineer,Full-time,Semi-Senior,70139,50,FR,FR,Large
+2020,Data Engineer,Full-time,Senior,33511,0,MX,MX,Small
+2020,Data Engineer,Full-time,Junior,41689,100,JP,JP,Small
+2020,Data Engineer,Full-time,Senior,47899,50,GR,GR,Large
+2020,Data Engineer,Full-time,Semi-Senior,110000,100,US,US,Large
+2020,Data Engineer,Full-time,Semi-Senior,130800,100,ES,US,Medium
+2020,Data Engineer,Full-time,Junior,54742,100,PK,DE,Large
+2020,Data Engineering Manager,Full-time,Executive,79833,50,ES,ES,Large
+2020,Data Engineering Manager,Full-time,Semi-Senior,59303,100,DE,DE,Small
+2020,Data Science Consultant,Full-time,Semi-Senior,103000,100,US,US,Large
+2020,Data Science Consultant,Full-time,Junior,5707,50,IN,IN,Medium
+2020,Data Science Manager,Full-time,Senior,190200,100,US,US,Medium
+2020,Data Scientist,Full-time,Senior,68428,100,GR,US,Large
+2020,Data Scientist,Full-time,Semi-Senior,45760,100,PH,US,Small
+2020,Data Scientist,Full-time,Semi-Senior,76958,100,GB,GB,Small
+2020,Data Scientist,Full-time,Semi-Senior,105000,100,US,US,Large
+2020,Data Scientist,Full-time,Semi-Senior,79833,0,DE,DE,Large
+2020,Data Scientist,Full-time,Semi-Senior,35735,50,HU,HU,Large
+2020,Data Scientist,Full-time,Junior,51321,0,FR,FR,Small
+2020,Data Scientist,Full-time,Semi-Senior,40481,0,IN,IN,Large
+2020,Data Scientist,Full-time,Junior,39916,0,FR,FR,Medium
+2020,Data Scientist,Full-time,Semi-Senior,42197,50,FR,FR,Small
+2020,Data Scientist,Full-time,Junior,62726,50,DE,DE,Small
+2020,Data Scientist,Part-time,Junior,21669,50,IT,IT,Small
+2020,Data Scientist,Full-time,Senior,120000,50,US,US,Large
+2020,Data Scientist,Full-time,Semi-Senior,38776,100,ES,ES,Medium
+2020,Data Scientist,Full-time,Senior,91237,0,AT,AT,Small
+2020,Data Scientist,Full-time,Semi-Senior,62726,50,FR,LU,Small
+2020,Data Scientist,Full-time,Semi-Senior,118000,100,US,US,Medium
+2020,Data Scientist,Full-time,Semi-Senior,138350,100,US,US,Medium
+2020,Data Scientist,Full-time,Senior,412000,100,US,US,Large
+2020,Data Scientist,Full-time,Junior,105000,100,US,US,Small
+2020,Data Scientist,Full-time,Junior,49268,0,DE,DE,Small
+2020,Director of Data Science,Full-time,Executive,325000,100,US,US,Large
+2020,Lead Data Analyst,Full-time,Semi-Senior,87000,100,US,US,Large
+2020,Lead Data Engineer,Full-time,Senior,125000,50,NZ,NZ,Small
+2020,Lead Data Engineer,Full-time,Semi-Senior,56000,100,PT,US,Medium
+2020,Lead Data Scientist,Full-time,Semi-Senior,115000,0,AE,AE,Large
+2020,Lead Data Scientist,Full-time,Senior,190000,100,US,US,Small
+2020,ML Engineer,Part-time,Junior,15966,100,DE,DE,Small
+2020,Machine Learning Engineer,Full-time,Junior,250000,50,US,US,Large
+2020,Machine Learning Engineer,Full-time,Junior,138000,100,US,US,Small
+2020,Machine Learning Engineer,Full-time,Senior,150000,50,US,US,Large
+2020,Machine Learning Engineer,Full-time,Semi-Senior,43331,0,CN,CN,Medium
+2020,Machine Learning Engineer,Full-time,Senior,45618,100,HR,HR,Small
+2020,Machine Learning Infrastructure Engineer,Full-time,Semi-Senior,50180,0,PT,PT,Medium
+2020,Machine Learning Manager,Full-time,Senior,117104,50,CA,CA,Large
+2020,Machine Learning Scientist,Full-time,Senior,260000,0,JP,JP,Small
+2020,Principal Data Scientist,Full-time,Senior,148261,100,DE,DE,Medium
+2020,Product Data Analyst,Full-time,Semi-Senior,6072,100,IN,IN,Large
+2020,Product Data Analyst,Full-time,Semi-Senior,20000,0,HN,HN,Small
+2020,Research Scientist,Full-time,Semi-Senior,450000,0,US,US,Medium
+2020,Research Scientist,Full-time,Junior,42000,50,NL,NL,Large
+2021,3D Computer Vision Researcher,Part-time,Semi-Senior,5423,50,IN,IN,Medium
+2021,3D Computer Vision Researcher,Part-time,Semi-Senior,5409,50,IN,IN,Medium
+2021,AI Scientist,Part-time,Junior,12000,100,PK,US,Medium
+2021,AI Scientist,Full-time,Senior,55000,100,ES,ES,Large
+2021,AI Scientist,Full-time,Junior,18102,100,IN,AS,Small
+2021,AI Scientist,Part-time,Junior,12000,100,BR,US,Small
+2021,AI Scientist,Full-time,Junior,18053,100,IN,AS,Small
+2021,Applied Data Scientist,Full-time,Semi-Senior,54376,50,GB,CA,Large
+2021,Applied Data Scientist,Full-time,Semi-Senior,54238,50,GB,CA,Large
+2021,Applied Data Scientist,Full-time,Junior,110037,0,GB,GB,Large
+2021,Applied Machine Learning Scientist,Full-time,Semi-Senior,423000,50,US,US,Large
+2021,Applied Machine Learning Scientist,Full-time,Semi-Senior,38400,100,VN,US,Medium
+2021,BI Data Analyst,Full-time,Semi-Senior,100000,100,US,US,Medium
+2021,BI Data Analyst,Full-time,Executive,150000,100,IN,US,Large
+2021,BI Data Analyst,Full-time,Semi-Senior,36732,50,HU,US,Large
+2021,BI Data Analyst,Full-time,Junior,9272,100,KE,KE,Small
+2021,BI Data Analyst,Full-time,Semi-Senior,36259,50,HU,US,Large
+2021,BI Data Analyst,Full-time,Junior,55000,50,US,US,Small
+2021,Big Data Architect,Full-time,Senior,99956,50,CA,CA,Medium
+2021,Big Data Architect,Full-time,Senior,99703,50,CA,CA,Medium
+2021,Big Data Engineer,Full-time,Junior,16271,100,IN,IN,Large
+2021,Big Data Engineer,Full-time,Semi-Senior,22671,0,IN,IN,Large
+2021,Big Data Engineer,Full-time,Junior,5898,0,IN,CH,Large
+2021,Big Data Engineer,Full-time,Semi-Senior,18000,0,MD,MD,Small
+2021,Big Data Engineer,Full-time,Semi-Senior,60000,50,ES,RO,Medium
+2021,Big Data Engineer,Full-time,Semi-Senior,22611,0,IN,IN,Large
+2021,Big Data Engineer,Full-time,Junior,5882,0,IN,CH,Large
+2021,Big Data Engineer,Full-time,Junior,16228,100,IN,IN,Large
+2021,Business Data Analyst,Full-time,Junior,59601,100,LU,LU,Large
+2021,Business Data Analyst,Full-time,Junior,59102,100,LU,LU,Large
+2021,Cloud Data Engineer,Full-time,Semi-Senior,89514,50,SG,SG,Large
+2021,Cloud Data Engineer,Full-time,Senior,160000,100,BR,US,Small
+2021,Cloud Data Engineer,Full-time,Semi-Senior,89294,50,SG,SG,Large
+2021,Computer Vision Engineer,Part-time,Junior,28850,50,DK,DK,Small
+2021,Computer Vision Engineer,Full-time,Senior,19052,0,BR,BR,Medium
+2021,Computer Vision Engineer,Full-time,Senior,24000,100,BR,BR,Medium
+2021,Computer Vision Engineer,Part-time,Junior,28609,50,DK,DK,Small
+2021,Computer Vision Engineer,Full-time,Senior,18907,0,BR,BR,Medium
+2021,Computer Vision Software Engineer,Full-time,Semi-Senior,96554,100,DE,US,Small
+2021,Computer Vision Software Engineer,Full-time,Junior,70000,100,US,US,Medium
+2021,Computer Vision Software Engineer,Full-time,Semi-Senior,95746,100,DE,US,Small
+2021,Data Analyst,Full-time,Junior,90000,100,US,US,Small
+2021,Data Analyst,Full-time,Junior,60000,100,US,US,Small
+2021,Data Analyst,Full-time,Junior,59601,50,FR,FR,Medium
+2021,Data Analyst,Full-time,Senior,80000,100,BG,US,Small
+2021,Data Analyst,Full-time,Junior,80000,100,US,US,Medium
+2021,Data Analyst,Full-time,Semi-Senior,51814,50,GB,GB,Large
+2021,Data Analyst,Full-time,Semi-Senior,93000,100,US,US,Large
+2021,Data Analyst,Full-time,Semi-Senior,80000,100,US,US,Large
+2021,Data Analyst,Full-time,Senior,200000,100,US,US,Large
+2021,Data Analyst,Full-time,Senior,64369,50,DE,DE,Large
+2021,Data Analyst,Full-time,Senior,71968,100,CA,CA,Medium
+2021,Data Analyst,Full-time,Semi-Senior,75000,0,US,US,Large
+2021,Data Analyst,Full-time,Semi-Senior,62000,0,US,US,Large
+2021,Data Analyst,Full-time,Junior,59102,50,FR,FR,Medium
+2021,Data Analyst,Full-time,Semi-Senior,51519,50,GB,GB,Large
+2021,Data Analyst,Full-time,Junior,50000,100,US,US,Medium
+2021,Data Analyst,Part-time,Junior,10354,50,ES,ES,Medium
+2021,Data Analyst,Full-time,Semi-Senior,90000,100,US,US,Medium
+2021,Data Analyst,Full-time,Semi-Senior,135000,100,US,US,Large
+2021,Data Analyst,Full-time,Senior,71786,100,CA,CA,Medium
+2021,Data Analyst,Full-time,Senior,63831,50,DE,DE,Large
+2021,Data Analytics Engineer,Full-time,Semi-Senior,110000,100,US,US,Large
+2021,Data Analytics Engineer,Full-time,Senior,79866,100,DE,DE,Large
+2021,Data Analytics Engineer,Full-time,Senior,50000,100,VN,GB,Medium
+2021,Data Analytics Engineer,Full-time,Senior,79197,100,DE,DE,Large
+2021,Data Analytics Manager,Full-time,Senior,120000,100,US,US,Medium
+2021,Data Analytics Manager,Full-time,Senior,120000,0,US,US,Large
+2021,Data Analytics Manager,Full-time,Senior,140000,100,US,US,Large
+2021,Data Architect,Full-time,Semi-Senior,180000,100,US,US,Large
+2021,Data Architect,Full-time,Semi-Senior,150000,100,US,US,Large
+2021,Data Architect,Full-time,Semi-Senior,170000,100,US,US,Large
+2021,Data Engineer,Full-time,Semi-Senior,90000,100,US,US,Large
+2021,Data Engineer,Full-time,Semi-Senior,28801,100,PL,PL,Large
+2021,Data Engineer,Full-time,Semi-Senior,140000,100,US,US,Large
+2021,Data Engineer,Full-time,Junior,30509,100,IN,IN,Large
+2021,Data Engineer,Full-time,Senior,150000,100,US,US,Medium
+2021,Data Engineer,Full-time,Senior,115000,100,US,US,Small
+2021,Data Engineer,Full-time,Senior,150000,100,US,US,Large
+2021,Data Engineer,Full-time,Semi-Senior,200000,100,US,US,Large
+2021,Data Engineer,Full-time,Senior,96833,50,GB,GB,Large
+2021,Data Engineer,Full-time,Semi-Senior,13105,0,TR,TR,Medium
+2021,Data Engineer,Full-time,Semi-Senior,72625,50,GB,GB,Large
+2021,Data Engineer,Full-time,Junior,21695,50,IN,IN,Medium
+2021,Data Engineer,Full-time,Semi-Senior,110000,100,US,US,Large
+2021,Data Engineer,Full-time,Junior,72500,100,US,US,Large
+2021,Data Engineer,Part-time,Semi-Senior,70329,100,NL,NL,Large
+2021,Data Engineer,Full-time,Semi-Senior,112000,100,US,US,Large
+2021,Data Engineer,Full-time,Junior,65561,50,DE,DE,Medium
+2021,Data Engineer,Full-time,Semi-Senior,30337,100,TR,TR,Medium
+2021,Data Engineer,Full-time,Semi-Senior,111775,0,US,US,Medium
+2021,Data Engineer,Full-time,Semi-Senior,93150,0,US,US,Medium
+2021,Data Engineer,Full-time,Semi-Senior,4000,100,IR,IR,Medium
+2021,Data Engineer,Full-time,Semi-Senior,26224,0,RO,US,Large
+2021,Data Engineer,Full-time,Semi-Senior,66400,50,HK,GB,Small
+2021,Data Engineer,Freelance,Semi-Senior,20000,0,IT,US,Large
+2021,Data Engineer,Full-time,Senior,165000,0,US,US,Medium
+2021,Data Engineer,Full-time,Senior,77481,50,RO,GB,Small
+2021,Data Engineer,Full-time,Semi-Senior,45773,100,NL,NL,Large
+2021,Data Engineer,Full-time,Semi-Senior,28608,50,MT,MT,Large
+2021,Data Engineer,Full-time,Semi-Senior,28476,100,PL,PL,Large
+2021,Data Engineer,Full-time,Junior,30428,100,IN,IN,Large
+2021,Data Engineer,Full-time,Semi-Senior,45391,100,NL,NL,Large
+2021,Data Engineer,Full-time,Semi-Senior,100000,100,US,US,Large
+2021,Data Engineer,Full-time,Semi-Senior,28369,50,MT,MT,Large
+2021,Data Engineer,Full-time,Junior,80000,100,US,US,Large
+2021,Data Engineer,Full-time,Semi-Senior,82528,100,GB,GB,Large
+2021,Data Engineer,Full-time,Semi-Senior,26005,0,RO,US,Large
+2021,Data Engineer,Full-time,Senior,76833,50,RO,GB,Small
+2021,Data Engineer,Full-time,Semi-Senior,66022,50,HK,GB,Small
+2021,Data Engineer,Full-time,Junior,21637,50,IN,IN,Medium
+2021,Data Engineer,Full-time,Semi-Senior,72212,50,GB,GB,Large
+2021,Data Engineer,Full-time,Semi-Senior,12103,0,TR,TR,Medium
+2021,Data Engineer,Full-time,Senior,96282,50,GB,GB,Large
+2021,Data Engineer,Full-time,Semi-Senior,28016,100,TR,TR,Medium
+2021,Data Engineer,Full-time,Junior,65013,50,DE,DE,Medium
+2021,Data Engineer,Part-time,Semi-Senior,69741,100,NL,NL,Large
+2021,Data Engineering Manager,Full-time,Senior,153000,100,US,US,Large
+2021,Data Engineering Manager,Full-time,Senior,174000,100,US,US,Large
+2021,Data Engineering Manager,Full-time,Senior,150000,0,US,US,Large
+2021,Data Science Consultant,Full-time,Junior,64369,50,DE,DE,Large
+2021,Data Science Consultant,Full-time,Junior,77481,100,DE,DE,Small
+2021,Data Science Consultant,Full-time,Junior,77481,0,DE,DE,Large
+2021,Data Science Consultant,Full-time,Executive,70329,100,FR,ES,Small
+2021,Data Science Consultant,Full-time,Junior,90000,100,US,US,Small
+2021,Data Science Consultant,Full-time,Junior,76833,100,DE,DE,Small
+2021,Data Science Consultant,Full-time,Junior,63831,50,DE,DE,Large
+2021,Data Science Consultant,Full-time,Executive,69741,100,FR,ES,Small
+2021,Data Science Consultant,Full-time,Junior,76833,0,DE,DE,Large
+2021,Data Science Engineer,Full-time,Senior,127543,50,CA,CA,Large
+2021,Data Science Engineer,Full-time,Semi-Senior,40529,100,GR,GR,Medium
+2021,Data Science Engineer,Full-time,Semi-Senior,40189,100,GR,GR,Medium
+2021,Data Science Engineer,Full-time,Senior,127221,50,CA,CA,Large
+2021,Data Science Manager,Full-time,Senior,54238,50,IN,US,Large
+2021,Data Science Manager,Full-time,Senior,174000,100,US,US,Large
+2021,Data Science Manager,Full-time,Senior,152000,100,US,FR,Large
+2021,Data Science Manager,Full-time,Senior,94917,50,IN,IN,Large
+2021,Data Science Manager,Full-time,Senior,240000,0,US,US,Large
+2021,Data Science Manager,Full-time,Senior,144000,100,US,US,Large
+2021,Data Science Manager,Full-time,Senior,54094,50,IN,US,Large
+2021,Data Science Manager,Full-time,Senior,94665,50,IN,IN,Large
+2021,Data Scientist,Full-time,Junior,13400,100,UA,UA,Large
+2021,Data Scientist,Full-time,Semi-Senior,75966,100,CA,CA,Large
+2021,Data Scientist,Full-time,Semi-Senior,150000,100,US,US,Medium
+2021,Data Scientist,Full-time,Semi-Senior,50000,100,NG,NG,Large
+2021,Data Scientist,Full-time,Senior,53641,50,FR,FR,Large
+2021,Data Scientist,Full-time,Junior,29831,50,IN,IN,Large
+2021,Data Scientist,Full-time,Junior,28475,100,IN,IN,Medium
+2021,Data Scientist,Full-time,Junior,90000,100,US,US,Small
+2021,Data Scientist,Full-time,Junior,36952,50,FR,FR,Large
+2021,Data Scientist,Full-time,Senior,165000,100,US,US,Large
+2021,Data Scientist,Full-time,Senior,103954,100,CA,CA,Large
+2021,Data Scientist,Full-time,Senior,21843,50,TR,TR,Large
+2021,Data Scientist,Full-time,Junior,58000,50,US,US,Large
+2021,Data Scientist,Full-time,Junior,100000,100,US,US,Medium
+2021,Data Scientist,Full-time,Senior,78340,50,FR,FR,Medium
+2021,Data Scientist,Full-time,Semi-Senior,25747,100,RS,DE,Small
+2021,Data Scientist,Full-time,Semi-Senior,16949,100,IN,IN,Small
+2021,Data Scientist,Full-time,Senior,135000,0,US,US,Large
+2021,Data Scientist,Full-time,Semi-Senior,147000,50,US,US,Large
+2021,Data Scientist,Full-time,Semi-Senior,91500,50,DE,DE,Large
+2021,Data Scientist,Full-time,Semi-Senior,5695,100,IN,US,Small
+2021,Data Scientist,Full-time,Semi-Senior,40798,100,CL,CL,Large
+2021,Data Scientist,Full-time,Semi-Senior,2876,0,MX,MX,Small
+2021,Data Scientist,Full-time,Semi-Senior,61985,50,DE,AT,Medium
+2021,Data Scientist,Full-time,Semi-Senior,38144,100,ES,ES,Large
+2021,Data Scientist,Full-time,Semi-Senior,56578,50,GB,GB,Large
+2021,Data Scientist,Full-time,Semi-Senior,33899,0,IN,IN,Medium
+2021,Data Scientist,Full-time,Semi-Senior,117583,50,GB,GB,Large
+2021,Data Scientist,Full-time,Semi-Senior,89402,50,DE,DE,Large
+2021,Data Scientist,Full-time,Semi-Senior,160000,100,US,US,Large
+2021,Data Scientist,Full-time,Semi-Senior,13000,0,BR,BR,Small
+2021,Data Scientist,Full-time,Senior,87961,100,CA,CA,Small
+2021,Data Scientist,Full-time,Semi-Senior,130000,50,US,US,Large
+2021,Data Scientist,Full-time,Semi-Senior,47204,100,ES,ES,Medium
+2021,Data Scientist,Full-time,Junior,4000,0,VN,VN,Medium
+2021,Data Scientist,Full-time,Semi-Senior,115000,50,US,US,Large
+2021,Data Scientist,Full-time,Semi-Senior,73000,0,US,US,Large
+2021,Data Scientist,Full-time,Semi-Senior,119353,100,SG,IL,Medium
+2021,Data Scientist,Full-time,Senior,53192,50,FR,FR,Large
+2021,Data Scientist,Full-time,Junior,29751,50,IN,IN,Large
+2021,Data Scientist,Full-time,Semi-Senior,9466,0,IN,IN,Small
+2021,Data Scientist,Full-time,Junior,49646,50,FR,FR,Medium
+2021,Data Scientist,Full-time,Junior,100000,0,US,US,Small
+2021,Data Scientist,Full-time,Junior,80000,100,US,US,Medium
+2021,Data Scientist,Full-time,Semi-Senior,82500,100,US,US,Small
+2021,Data Scientist,Full-time,Semi-Senior,75774,100,CA,CA,Large
+2021,Data Scientist,Full-time,Semi-Senior,119059,100,SG,IL,Medium
+2021,Data Scientist,Full-time,Semi-Senior,2859,0,MX,MX,Small
+2021,Data Scientist,Full-time,Semi-Senior,40038,100,CL,CL,Large
+2021,Data Scientist,Full-time,Semi-Senior,5679,100,IN,US,Small
+2021,Data Scientist,Full-time,Semi-Senior,90734,50,DE,DE,Large
+2021,Data Scientist,Full-time,Semi-Senior,61467,50,DE,AT,Medium
+2021,Data Scientist,Full-time,Semi-Senior,37825,100,ES,ES,Large
+2021,Data Scientist,Full-time,Semi-Senior,12901,0,BR,BR,Small
+2021,Data Scientist,Full-time,Semi-Senior,116914,50,GB,GB,Large
+2021,Data Scientist,Full-time,Semi-Senior,33808,0,IN,IN,Medium
+2021,Data Scientist,Full-time,Semi-Senior,56256,50,GB,GB,Large
+2021,Data Scientist,Full-time,Senior,87738,100,CA,CA,Small
+2021,Data Scientist,Full-time,Semi-Senior,88654,50,DE,DE,Large
+2021,Data Scientist,Full-time,Semi-Senior,46809,100,ES,ES,Medium
+2021,Data Scientist,Full-time,Senior,103691,100,CA,CA,Large
+2021,Data Scientist,Full-time,Junior,36643,50,FR,FR,Large
+2021,Data Scientist,Full-time,Junior,28399,100,IN,IN,Medium
+2021,Data Scientist,Full-time,Semi-Senior,16904,100,IN,IN,Small
+2021,Data Scientist,Full-time,Semi-Senior,25532,100,RS,DE,Small
+2021,Data Scientist,Full-time,Senior,77684,50,FR,FR,Medium
+2021,Data Scientist,Full-time,Senior,20171,50,TR,TR,Large
+2021,Data Scientist,Full-time,Semi-Senior,109000,50,US,US,Large
+2021,Data Specialist,Full-time,Senior,165000,100,US,US,Large
+2021,Director of Data Engineering,Full-time,Senior,114125,100,GB,GB,Medium
+2021,Director of Data Engineering,Full-time,Senior,200000,100,US,US,Large
+2021,Director of Data Engineering,Full-time,Senior,113476,100,GB,GB,Medium
+2021,Director of Data Science,Full-time,Executive,154963,100,IT,PL,Large
+2021,Director of Data Science,Full-time,Executive,143043,0,DE,DE,Large
+2021,Director of Data Science,Full-time,Senior,168000,0,JP,JP,Small
+2021,Director of Data Science,Full-time,Executive,153667,100,IT,PL,Large
+2021,Director of Data Science,Full-time,Executive,130026,50,DE,DE,Medium
+2021,Director of Data Science,Full-time,Executive,250000,0,US,US,Large
+2021,Director of Data Science,Full-time,Executive,141846,0,DE,DE,Large
+2021,Finance Data Analyst,Full-time,Senior,62250,50,GB,GB,Large
+2021,Finance Data Analyst,Full-time,Senior,61896,50,GB,GB,Large
+2021,Financial Data Analyst,Full-time,Semi-Senior,450000,100,US,US,Large
+2021,Head of Data,Full-time,Executive,230000,50,RU,RU,Large
+2021,Head of Data,Full-time,Executive,235000,100,US,US,Large
+2021,Head of Data,Full-time,Senior,102839,100,SI,SI,Large
+2021,Head of Data Science,Full-time,Executive,85000,0,RU,RU,Medium
+2021,Head of Data Science,Full-time,Semi-Senior,110000,0,US,US,Small
+2021,Lead Data Analyst,Full-time,Senior,170000,100,US,US,Large
+2021,Lead Data Analyst,Full-time,Semi-Senior,19661,100,IN,IN,Large
+2021,Lead Data Analyst,Full-time,Semi-Senior,19609,100,IN,IN,Large
+2021,Lead Data Engineer,Full-time,Senior,103750,100,GB,GB,Small
+2021,Lead Data Engineer,Full-time,Senior,276000,0,US,US,Large
+2021,Lead Data Engineer,Full-time,Senior,160000,50,PR,US,Small
+2021,Lead Data Engineer,Full-time,Senior,103160,100,GB,GB,Small
+2021,Lead Data Scientist,Full-time,Senior,40570,50,IN,IN,Large
+2021,ML Engineer,Contract,Semi-Senior,270000,100,US,US,Large
+2021,ML Engineer,Full-time,Senior,256000,100,US,US,Small
+2021,ML Engineer,Full-time,Semi-Senior,63711,50,JP,JP,Small
+2021,ML Engineer,Full-time,Semi-Senior,77364,50,JP,JP,Small
+2021,Machine Learning Developer,Full-time,Junior,100000,50,IQ,IQ,Small
+2021,Machine Learning Engineer,Full-time,Junior,125000,100,US,US,Small
+2021,Machine Learning Engineer,Full-time,Semi-Senior,47681,100,ES,ES,Small
+2021,Machine Learning Engineer,Full-time,Senior,95362,50,DE,DE,Large
+2021,Machine Learning Engineer,Full-time,Senior,185000,50,US,US,Large
+2021,Machine Learning Engineer,Full-time,Junior,85000,100,NL,DE,Small
+2021,Machine Learning Engineer,Full-time,Senior,66442,0,IN,IN,Large
+2021,Machine Learning Engineer,Full-time,Junior,25032,50,DE,DE,Medium
+2021,Machine Learning Engineer,Full-time,Senior,24407,100,IN,IN,Large
+2021,Machine Learning Engineer,Full-time,Junior,21844,50,CO,CO,Medium
+2021,Machine Learning Engineer,Full-time,Junior,81000,50,US,US,Small
+2021,Machine Learning Engineer,Full-time,Semi-Senior,47129,100,PL,PL,Large
+2021,Machine Learning Engineer,Full-time,Semi-Senior,89402,100,BE,BE,Medium
+2021,Machine Learning Engineer,Full-time,Semi-Senior,25032,50,SI,SI,Large
+2021,Machine Learning Engineer,Full-time,Senior,200000,100,US,US,Large
+2021,Machine Learning Engineer,Full-time,Semi-Senior,74000,50,JP,JP,Small
+2021,Machine Learning Engineer,Full-time,Semi-Senior,47282,100,ES,ES,Small
+2021,Machine Learning Engineer,Full-time,Senior,94564,50,DE,DE,Large
+2021,Machine Learning Engineer,Full-time,Junior,20000,100,IN,IN,Small
+2021,Machine Learning Engineer,Full-time,Senior,82744,50,BE,BE,Medium
+2021,Machine Learning Engineer,Full-time,Senior,24342,100,IN,IN,Large
+2021,Machine Learning Engineer,Full-time,Semi-Senior,24823,50,SI,SI,Large
+2021,Machine Learning Engineer,Full-time,Junior,24823,50,DE,DE,Medium
+2021,Machine Learning Engineer,Full-time,Semi-Senior,88654,100,BE,BE,Medium
+2021,Machine Learning Engineer,Full-time,Semi-Senior,46597,100,PL,PL,Large
+2021,Machine Learning Engineer,Full-time,Senior,66265,0,IN,IN,Large
+2021,Machine Learning Engineer,Full-time,Semi-Senior,51064,50,IT,IT,Large
+2021,Machine Learning Infrastructure Engineer,Full-time,Senior,195000,100,US,US,Medium
+2021,Machine Learning Scientist,Full-time,Junior,225000,100,US,US,Large
+2021,Machine Learning Scientist,Full-time,Senior,225000,100,US,CA,Large
+2021,Machine Learning Scientist,Freelance,Semi-Senior,12000,50,PK,PK,Medium
+2021,Machine Learning Scientist,Full-time,Senior,120000,50,US,US,Small
+2021,Manager Data Science,Full-time,Senior,144000,100,US,US,Large
+2021,Marketing Data Analyst,Full-time,Senior,89402,100,GR,DK,Large
+2021,Marketing Data Analyst,Full-time,Senior,88654,100,GR,DK,Large
+2021,Principal Data Analyst,Full-time,Senior,170000,100,US,US,Medium
+2021,Principal Data Engineer,Full-time,Executive,600000,100,US,US,Large
+2021,Principal Data Engineer,Full-time,Senior,185000,100,US,US,Large
+2021,Principal Data Engineer,Full-time,Senior,200000,100,US,US,Medium
+2021,Principal Data Scientist,Contract,Executive,416000,100,US,US,Small
+2021,Principal Data Scientist,Full-time,Senior,175228,100,DE,DE,Medium
+2021,Principal Data Scientist,Full-time,Senior,235000,100,US,US,Large
+2021,Principal Data Scientist,Full-time,Semi-Senior,151000,100,US,US,Large
+2021,Principal Data Scientist,Full-time,Senior,220000,0,US,US,Large
+2021,Principal Data Scientist,Full-time,Senior,173762,100,DE,DE,Medium
+2021,Research Scientist,Full-time,Junior,83000,50,GB,GB,Large
+2021,Research Scientist,Full-time,Semi-Senior,187917,100,CA,CA,Large
+2021,Research Scientist,Full-time,Senior,61270,50,PT,PT,Large
+2021,Research Scientist,Full-time,Semi-Senior,63971,100,CA,CA,Medium
+2021,Research Scientist,Full-time,Junior,100000,0,JE,CN,Large
+2021,Research Scientist,Full-time,Senior,96357,50,CA,CA,Large
+2021,Research Scientist,Full-time,Semi-Senior,57217,50,FR,FR,Small
+2021,Research Scientist,Full-time,Senior,50000,100,FR,US,Small
+2021,Research Scientist,Full-time,Junior,82528,50,GB,GB,Large
+2021,Research Scientist,Full-time,Semi-Senior,187442,100,CA,CA,Large
+2021,Research Scientist,Full-time,Semi-Senior,62649,50,FR,FR,Medium
+2021,Research Scientist,Full-time,Senior,60757,50,PT,PT,Large
+2021,Research Scientist,Full-time,Senior,96113,50,CA,CA,Large
+2021,Research Scientist,Full-time,Semi-Senior,56738,50,FR,FR,Small
+2021,Research Scientist,Full-time,Semi-Senior,63810,100,CA,CA,Medium
+2021,Research Scientist,Full-time,Semi-Senior,69999,50,CZ,CZ,Large
+2021,Staff Data Scientist,Contract,Senior,105000,100,US,US,Medium
+2022,AI Scientist,Full-time,Semi-Senior,120000,0,US,US,Medium
+2022,AI Scientist,Full-time,Semi-Senior,200000,100,IN,US,Large
+2022,Analytics Engineer,Full-time,Executive,175000,100,US,US,Medium
+2022,Analytics Engineer,Full-time,Executive,135000,100,US,US,Medium
+2022,Analytics Engineer,Full-time,Senior,205300,0,US,US,Medium
+2022,Analytics Engineer,Full-time,Senior,184700,0,US,US,Medium
+2022,Applied Data Scientist,Full-time,Semi-Senior,157000,100,US,US,Large
+2022,Applied Data Scientist,Full-time,Senior,380000,100,US,US,Large
+2022,Applied Data Scientist,Full-time,Senior,177000,100,US,US,Large
+2022,Applied Machine Learning Scientist,Contract,Junior,31875,100,TN,CZ,Medium
+2022,Applied Machine Learning Scientist,Full-time,Semi-Senior,75000,100,BO,US,Large
+2022,Business Data Analyst,Full-time,Semi-Senior,18442,100,IN,IN,Medium
+2022,Business Data Analyst,Full-time,Semi-Senior,70912,50,CA,CA,Large
+2022,Computer Vision Engineer,Full-time,Junior,125000,0,US,US,Medium
+2022,Computer Vision Engineer,Full-time,Junior,10000,100,PT,LU,Medium
+2022,Computer Vision Software Engineer,Full-time,Junior,150000,100,AU,AU,Small
+2022,Data Analyst,Full-time,Senior,155000,100,US,US,Medium
+2022,Data Analyst,Full-time,Senior,120600,100,US,US,Medium
+2022,Data Analyst,Full-time,Senior,102100,100,US,US,Medium
+2022,Data Analyst,Full-time,Senior,84900,100,US,US,Medium
+2022,Data Analyst,Full-time,Senior,99000,0,US,US,Medium
+2022,Data Analyst,Full-time,Senior,116000,0,US,US,Medium
+2022,Data Analyst,Full-time,Semi-Senior,106260,0,US,US,Medium
+2022,Data Analyst,Full-time,Semi-Senior,126500,0,US,US,Medium
+2022,Data Analyst,Full-time,Senior,90320,100,US,US,Medium
+2022,Data Analyst,Full-time,Senior,124190,100,US,US,Medium
+2022,Data Analyst,Full-time,Executive,130000,100,US,US,Medium
+2022,Data Analyst,Full-time,Executive,110000,100,US,US,Medium
+2022,Data Analyst,Full-time,Senior,170000,100,US,US,Medium
+2022,Data Analyst,Full-time,Semi-Senior,115500,100,US,US,Medium
+2022,Data Analyst,Full-time,Senior,112900,100,US,US,Medium
+2022,Data Analyst,Full-time,Semi-Senior,167000,100,US,US,Medium
+2022,Data Analyst,Full-time,Senior,136600,100,US,US,Medium
+2022,Data Analyst,Full-time,Senior,109280,100,US,US,Medium
+2022,Data Analyst,Full-time,Senior,135000,100,US,US,Medium
+2022,Data Analyst,Full-time,Senior,130000,100,CA,CA,Medium
+2022,Data Analyst,Full-time,Senior,61300,100,CA,CA,Medium
+2022,Data Analyst,Full-time,Semi-Senior,58000,0,US,US,Small
+2022,Data Analyst,Full-time,Senior,132000,0,US,US,Medium
+2022,Data Analyst,Full-time,Senior,128875,100,US,US,Medium
+2022,Data Analyst,Full-time,Senior,93700,100,US,US,Medium
+2022,Data Analyst,Full-time,Senior,164000,0,US,US,Medium
+2022,Data Analyst,Full-time,Senior,115934,0,US,US,Medium
+2022,Data Analyst,Full-time,Senior,81666,0,US,US,Medium
+2022,Data Analyst,Full-time,Semi-Senior,52351,100,GB,GB,Medium
+2022,Data Analyst,Full-time,Semi-Senior,39263,100,GB,GB,Medium
+2022,Data Analyst,Full-time,Semi-Senior,43966,100,ES,ES,Medium
+2022,Data Analyst,Full-time,Semi-Senior,32974,100,ES,ES,Medium
+2022,Data Analyst,Full-time,Semi-Senior,43966,100,GR,GR,Medium
+2022,Data Analyst,Full-time,Semi-Senior,32974,100,GR,GR,Medium
+2022,Data Analyst,Full-time,Semi-Senior,135000,100,US,US,Medium
+2022,Data Analyst,Full-time,Semi-Senior,50000,100,US,US,Medium
+2022,Data Analyst,Full-time,Semi-Senior,20000,100,GR,GR,Small
+2022,Data Analyst,Full-time,Senior,100000,100,US,US,Medium
+2022,Data Analyst,Full-time,Semi-Senior,85000,0,CA,CA,Medium
+2022,Data Analyst,Full-time,Semi-Senior,75000,0,CA,CA,Medium
+2022,Data Analyst,Full-time,Senior,115934,100,US,US,Medium
+2022,Data Analyst,Full-time,Senior,81666,100,US,US,Medium
+2022,Data Analyst,Full-time,Senior,99050,100,US,US,Medium
+2022,Data Analyst,Full-time,Senior,116150,100,US,US,Medium
+2022,Data Analyst,Full-time,Semi-Senior,65438,0,GB,GB,Medium
+2022,Data Analyst,Full-time,Senior,80000,100,US,US,Medium
+2022,Data Analyst,Full-time,Senior,69000,100,US,US,Medium
+2022,Data Analyst,Full-time,Senior,150075,100,US,US,Medium
+2022,Data Analyst,Full-time,Senior,126500,100,US,US,Medium
+2022,Data Analyst,Full-time,Senior,106260,100,US,US,Medium
+2022,Data Analyst,Full-time,Senior,105000,100,US,US,Medium
+2022,Data Analyst,Full-time,Senior,110925,100,US,US,Medium
+2022,Data Analyst,Full-time,Semi-Senior,45807,0,GB,GB,Medium
+2022,Data Analyst,Full-time,Senior,60000,100,US,US,Medium
+2022,Data Analyst,Full-time,Junior,67000,0,CA,CA,Medium
+2022,Data Analyst,Full-time,Junior,52000,0,CA,CA,Medium
+2022,Data Analyst,Full-time,Senior,129000,0,US,US,Medium
+2022,Data Analyst,Full-time,Senior,150000,100,US,US,Medium
+2022,Data Analytics Engineer,Full-time,Junior,20000,0,PK,PK,Medium
+2022,Data Analytics Lead,Full-time,Senior,405000,100,US,US,Large
+2022,Data Analytics Manager,Full-time,Senior,145000,100,US,US,Medium
+2022,Data Analytics Manager,Full-time,Senior,105400,100,US,US,Medium
+2022,Data Analytics Manager,Full-time,Senior,150260,100,US,US,Medium
+2022,Data Analytics Manager,Full-time,Senior,109280,100,US,US,Medium
+2022,Data Architect,Full-time,Senior,192400,100,CA,CA,Medium
+2022,Data Architect,Full-time,Senior,90700,100,CA,CA,Medium
+2022,Data Architect,Full-time,Senior,208775,100,US,US,Medium
+2022,Data Architect,Full-time,Senior,147800,100,US,US,Medium
+2022,Data Architect,Full-time,Senior,266400,100,US,US,Medium
+2022,Data Architect,Full-time,Senior,213120,100,US,US,Medium
+2022,Data Architect,Full-time,Senior,192564,100,US,US,Medium
+2022,Data Architect,Full-time,Senior,144854,100,US,US,Medium
+2022,Data Engineer,Full-time,Senior,135000,100,US,US,Medium
+2022,Data Engineer,Full-time,Semi-Senior,170000,100,US,US,Medium
+2022,Data Engineer,Full-time,Semi-Senior,150000,100,US,US,Medium
+2022,Data Engineer,Full-time,Junior,52351,100,GB,GB,Medium
+2022,Data Engineer,Full-time,Executive,242000,100,US,US,Medium
+2022,Data Engineer,Full-time,Executive,200000,100,US,US,Medium
+2022,Data Engineer,Full-time,Semi-Senior,78526,0,GB,GB,Medium
+2022,Data Engineer,Full-time,Semi-Senior,52351,0,GB,GB,Medium
+2022,Data Engineer,Full-time,Junior,45807,100,GB,GB,Medium
+2022,Data Engineer,Full-time,Senior,181940,0,US,US,Medium
+2022,Data Engineer,Full-time,Senior,132320,0,US,US,Medium
+2022,Data Engineer,Full-time,Senior,220110,0,US,US,Medium
+2022,Data Engineer,Full-time,Senior,160080,0,US,US,Medium
+2022,Data Engineer,Full-time,Senior,165400,100,US,US,Medium
+2022,Data Engineer,Full-time,Senior,132320,100,US,US,Medium
+2022,Data Engineer,Full-time,Senior,243900,100,US,US,Medium
+2022,Data Engineer,Full-time,Senior,128875,100,US,US,Medium
+2022,Data Engineer,Full-time,Senior,93700,100,US,US,Medium
+2022,Data Engineer,Full-time,Senior,156600,100,US,US,Medium
+2022,Data Engineer,Full-time,Senior,108800,0,US,US,Medium
+2022,Data Engineer,Full-time,Senior,113000,0,US,US,Large
+2022,Data Engineer,Full-time,Senior,78526,0,GB,GB,Medium
+2022,Data Engineer,Full-time,Senior,65438,0,GB,GB,Medium
+2022,Data Engineer,Full-time,Senior,160000,0,US,US,Large
+2022,Data Engineer,Full-time,Senior,136000,0,US,US,Medium
+2022,Data Engineer,Full-time,Senior,136994,100,US,US,Medium
+2022,Data Engineer,Full-time,Senior,101570,100,US,US,Medium
+2022,Data Engineer,Full-time,Senior,155000,100,US,US,Medium
+2022,Data Engineer,Full-time,Semi-Senior,117789,0,GB,GB,Medium
+2022,Data Engineer,Full-time,Senior,209100,100,US,US,Large
+2022,Data Engineer,Full-time,Senior,154600,100,US,US,Large
+2022,Data Engineer,Full-time,Senior,175000,100,US,US,Medium
+2022,Data Engineer,Full-time,Semi-Senior,98158,0,GB,GB,Medium
+2022,Data Engineer,Full-time,Senior,183600,100,US,US,Large
+2022,Data Engineer,Full-time,Semi-Senior,65949,100,GR,GR,Medium
+2022,Data Engineer,Full-time,Semi-Senior,49461,100,GR,GR,Medium
+2022,Data Engineer,Full-time,Semi-Senior,78526,100,GB,GB,Medium
+2022,Data Engineer,Full-time,Semi-Senior,58894,100,GB,GB,Medium
+2022,Data Engineer,Full-time,Semi-Senior,63900,0,US,US,Medium
+2022,Data Engineer,Full-time,Semi-Senior,82900,0,US,US,Medium
+2022,Data Engineer,Full-time,Senior,100800,100,US,US,Large
+2022,Data Engineer,Full-time,Semi-Senior,49461,100,ES,ES,Medium
+2022,Data Engineer,Full-time,Semi-Senior,87932,100,ES,ES,Medium
+2022,Data Engineer,Full-time,Semi-Senior,76940,100,ES,ES,Medium
+2022,Data Engineer,Full-time,Semi-Senior,104702,100,GB,GB,Medium
+2022,Data Engineer,Full-time,Semi-Senior,91614,100,GB,GB,Medium
+2022,Data Engineer,Full-time,Semi-Senior,65949,100,ES,ES,Medium
+2022,Data Engineer,Full-time,Semi-Senior,87932,100,GR,GR,Medium
+2022,Data Engineer,Full-time,Semi-Senior,98158,100,GB,GB,Medium
+2022,Data Engineer,Full-time,Semi-Senior,76940,100,GR,GR,Medium
+2022,Data Engineer,Full-time,Senior,180000,100,US,US,Medium
+2022,Data Engineer,Full-time,Senior,80000,100,US,US,Medium
+2022,Data Engineer,Full-time,Senior,105000,100,US,US,Medium
+2022,Data Engineer,Part-time,Semi-Senior,54957,50,DE,DE,Large
+2022,Data Engineer,Full-time,Junior,120000,100,US,US,Medium
+2022,Data Engineer,Full-time,Senior,100000,100,US,US,Medium
+2022,Data Engineer,Full-time,Executive,324000,100,US,US,Medium
+2022,Data Engineer,Full-time,Executive,216000,100,US,US,Medium
+2022,Data Engineer,Full-time,Senior,210000,100,US,US,Medium
+2022,Data Engineer,Full-time,Junior,58035,100,PK,DE,Medium
+2022,Data Engineer,Full-time,Senior,115000,100,US,US,Medium
+2022,Data Engineer,Full-time,Junior,65000,100,US,US,Small
+2022,Data Engineer,Full-time,Semi-Senior,68147,100,FR,FR,Medium
+2022,Data Engineer,Full-time,Semi-Senior,206699,0,US,US,Medium
+2022,Data Engineer,Full-time,Semi-Senior,99100,0,US,US,Medium
+2022,Data Engineer,Full-time,Senior,130000,100,US,US,Medium
+2022,Data Engineer,Full-time,Senior,110500,100,US,US,Medium
+2022,Data Engineer,Full-time,Senior,160000,100,US,US,Medium
+2022,Data Engineer,Full-time,Senior,200100,100,US,US,Medium
+2022,Data Engineer,Full-time,Senior,145000,100,US,US,Medium
+2022,Data Engineer,Full-time,Senior,70500,0,US,US,Medium
+2022,Data Engineer,Full-time,Senior,175100,100,US,US,Medium
+2022,Data Engineer,Full-time,Senior,140250,100,US,US,Medium
+2022,Data Engineer,Full-time,Senior,54000,0,US,US,Medium
+2022,Data Engineer,Full-time,Senior,25000,100,US,US,Medium
+2022,Data Engineer,Full-time,Senior,220110,100,US,US,Medium
+2022,Data Engineer,Full-time,Senior,160080,100,US,US,Medium
+2022,Data Engineer,Full-time,Senior,154000,100,US,US,Medium
+2022,Data Engineer,Full-time,Senior,126000,100,US,US,Medium
+2022,Data Science Engineer,Full-time,Senior,60000,100,AR,MX,Large
+2022,Data Science Manager,Full-time,Senior,161342,100,US,US,Medium
+2022,Data Science Manager,Full-time,Senior,137141,100,US,US,Medium
+2022,Data Science Manager,Full-time,Semi-Senior,241000,100,US,US,Medium
+2022,Data Science Manager,Full-time,Semi-Senior,159000,100,US,US,Medium
+2022,Data Science Manager,Full-time,Senior,152500,100,US,US,Medium
+2022,Data Scientist,Full-time,Semi-Senior,130000,0,US,US,Medium
+2022,Data Scientist,Full-time,Semi-Senior,90000,0,US,US,Medium
+2022,Data Scientist,Full-time,Senior,136620,100,US,US,Medium
+2022,Data Scientist,Full-time,Senior,99360,100,US,US,Medium
+2022,Data Scientist,Full-time,Senior,117789,0,GB,GB,Medium
+2022,Data Scientist,Full-time,Senior,104702,0,GB,GB,Medium
+2022,Data Scientist,Full-time,Senior,146000,100,US,US,Medium
+2022,Data Scientist,Full-time,Senior,123000,100,US,US,Medium
+2022,Data Scientist,Full-time,Semi-Senior,65438,0,GB,GB,Medium
+2022,Data Scientist,Full-time,Semi-Senior,39263,0,GB,GB,Medium
+2022,Data Scientist,Full-time,Senior,165220,100,US,US,Medium
+2022,Data Scientist,Full-time,Senior,120160,100,US,US,Medium
+2022,Data Scientist,Full-time,Senior,180000,0,US,US,Large
+2022,Data Scientist,Full-time,Senior,120000,0,US,US,Large
+2022,Data Scientist,Full-time,Senior,95550,0,US,US,Medium
+2022,Data Scientist,Full-time,Senior,167000,100,US,US,Medium
+2022,Data Scientist,Full-time,Senior,150000,0,US,US,Medium
+2022,Data Scientist,Full-time,Senior,211500,100,US,US,Medium
+2022,Data Scientist,Full-time,Senior,138600,100,US,US,Medium
+2022,Data Scientist,Full-time,Senior,170000,100,US,US,Medium
+2022,Data Scientist,Full-time,Senior,215300,100,US,US,Large
+2022,Data Scientist,Full-time,Senior,158200,100,US,US,Large
+2022,Data Scientist,Full-time,Senior,180000,100,US,US,Medium
+2022,Data Scientist,Full-time,Semi-Senior,71982,0,GB,GB,Medium
+2022,Data Scientist,Full-time,Semi-Senior,45807,0,GB,GB,Medium
+2022,Data Scientist,Full-time,Senior,260000,100,US,US,Medium
+2022,Data Scientist,Full-time,Senior,180000,0,US,US,Medium
+2022,Data Scientist,Full-time,Senior,80000,0,US,US,Medium
+2022,Data Scientist,Full-time,Senior,140400,0,US,US,Large
+2022,Data Scientist,Full-time,Senior,215300,0,US,US,Large
+2022,Data Scientist,Full-time,Semi-Senior,31615,100,IN,IN,Large
+2022,Data Scientist,Full-time,Junior,18442,100,IN,IN,Medium
+2022,Data Scientist,Full-time,Senior,104890,100,US,US,Medium
+2022,Data Scientist,Full-time,Senior,140000,100,US,US,Medium
+2022,Data Scientist,Full-time,Senior,220000,100,US,US,Medium
+2022,Data Scientist,Full-time,Semi-Senior,183228,0,GB,GB,Medium
+2022,Data Scientist,Full-time,Semi-Senior,91614,0,GB,GB,Medium
+2022,Data Scientist,Full-time,Senior,185100,100,US,US,Medium
+2022,Data Scientist,Full-time,Semi-Senior,200000,100,US,US,Medium
+2022,Data Scientist,Full-time,Semi-Senior,120000,100,US,US,Medium
+2022,Data Scientist,Full-time,Senior,230000,100,US,US,Medium
+2022,Data Scientist,Part-time,Junior,100000,50,DZ,DZ,Medium
+2022,Data Scientist,Freelance,Semi-Senior,100000,100,CA,US,Medium
+2022,Data Scientist,Full-time,Semi-Senior,35590,100,PL,PL,Large
+2022,Data Scientist,Full-time,Senior,100000,100,BR,US,Medium
+2022,Data Scientist,Full-time,Senior,165000,100,US,US,Medium
+2022,Data Scientist,Full-time,Junior,52396,100,CA,CA,Large
+2022,Data Scientist,Full-time,Junior,40000,100,JP,MY,Large
+2022,Data Scientist,Full-time,Junior,86703,50,AU,AU,Medium
+2022,Data Scientist,Full-time,Semi-Senior,48000,100,RU,US,Small
+2022,Data Scientist,Full-time,Semi-Senior,122346,0,CH,CH,Large
+2022,Data Scientist,Full-time,Semi-Senior,69336,100,CA,CA,Medium
+2022,Data Scientist,Full-time,Semi-Senior,135000,100,US,US,Large
+2022,Data Scientist,Full-time,Semi-Senior,78000,100,US,US,Medium
+2022,Data Scientist,Full-time,Semi-Senior,141300,0,US,US,Medium
+2022,Data Scientist,Full-time,Semi-Senior,102100,0,US,US,Medium
+2022,Data Scientist,Full-time,Senior,205300,0,US,US,Large
+2022,Data Scientist,Full-time,Senior,176000,100,US,US,Medium
+2022,Data Scientist,Full-time,Senior,144000,100,US,US,Medium
+2022,Data Scientist,Full-time,Senior,205300,0,US,US,Medium
+2022,Data Scientist,Full-time,Senior,140400,0,US,US,Medium
+2022,Data Scientist,Full-time,Senior,210000,100,US,US,Medium
+2022,Data Scientist,Full-time,Senior,150000,100,US,US,Medium
+2022,Data Scientist,Full-time,Semi-Senior,160000,100,US,US,Medium
+2022,Data Scientist,Full-time,Semi-Senior,130000,100,US,US,Medium
+2022,Director of Data Science,Full-time,Executive,196979,50,CA,CA,Large
+2022,ETL Developer,Full-time,Semi-Senior,54957,0,GR,GR,Medium
+2022,Financial Data Analyst,Full-time,Junior,100000,50,US,US,Large
+2022,Head of Data,Full-time,Senior,200000,100,MY,US,Medium
+2022,Head of Data,Full-time,Semi-Senior,32974,100,EE,EE,Small
+2022,Head of Data Science,Full-time,Executive,224000,100,US,US,Medium
+2022,Head of Data Science,Full-time,Executive,167875,100,US,US,Medium
+2022,Head of Machine Learning,Full-time,Executive,79039,50,IN,IN,Large
+2022,Lead Data Engineer,Full-time,Executive,118187,100,CA,CA,Small
+2022,Lead Machine Learning Engineer,Full-time,Senior,87932,0,DE,DE,Medium
+2022,ML Engineer,Full-time,Junior,21983,100,PT,PT,Large
+2022,Machine Learning Developer,Full-time,Semi-Senior,78791,100,CA,CA,Medium
+2022,Machine Learning Developer,Full-time,Senior,78791,100,CA,CA,Medium
+2022,Machine Learning Engineer,Full-time,Senior,189650,0,US,US,Medium
+2022,Machine Learning Engineer,Full-time,Senior,164996,0,US,US,Medium
+2022,Machine Learning Engineer,Full-time,Junior,37300,100,GB,GB,Large
+2022,Machine Learning Engineer,Full-time,Semi-Senior,124333,0,GB,GB,Medium
+2022,Machine Learning Engineer,Full-time,Semi-Senior,98158,0,GB,GB,Medium
+2022,Machine Learning Engineer,Full-time,Semi-Senior,87932,100,FR,DE,Medium
+2022,Machine Learning Engineer,Full-time,Semi-Senior,120000,100,US,US,Small
+2022,Machine Learning Engineer,Full-time,Senior,220000,100,US,US,Medium
+2022,Machine Learning Engineer,Full-time,Senior,120000,100,AE,AE,Small
+2022,Machine Learning Engineer,Full-time,Senior,65000,100,AE,AE,Small
+2022,Machine Learning Engineer,Full-time,Senior,120000,100,US,US,Medium
+2022,Machine Learning Engineer,Full-time,Senior,62651,100,NL,NL,Large
+2022,Machine Learning Engineer,Full-time,Semi-Senior,87425,100,AU,AU,Large
+2022,Machine Learning Engineer,Full-time,Senior,71444,100,IE,IE,Small
+2022,Machine Learning Engineer,Full-time,Senior,214000,100,US,US,Medium
+2022,Machine Learning Engineer,Full-time,Senior,192600,100,US,US,Medium
+2022,Machine Learning Infrastructure Engineer,Full-time,Semi-Senior,58255,50,PT,PT,Large
+2022,Machine Learning Scientist,Full-time,Semi-Senior,160000,100,US,US,Large
+2022,Machine Learning Scientist,Full-time,Semi-Senior,112300,100,US,US,Large
+2022,Machine Learning Scientist,Full-time,Semi-Senior,153000,50,US,US,Medium
+2022,NLP Engineer,Full-time,Semi-Senior,37236,50,US,US,Large
+2022,Principal Data Analyst,Full-time,Semi-Senior,75000,100,CA,CA,Small
+2022,Principal Data Scientist,Full-time,Senior,162674,100,DE,DE,Medium
+2022,Research Scientist,Full-time,Senior,144000,50,US,US,Large
+2022,Research Scientist,Full-time,Senior,93427,50,FR,FR,Large
+2022,Research Scientist,Full-time,Semi-Senior,64849,0,AT,AT,Large
+2022,Research Scientist,Full-time,Junior,120000,100,US,US,Large
